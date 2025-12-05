@@ -48,7 +48,7 @@ nav a {
 nav a:hover {
     color: #4aa8ff;
 }
-@media (max-width: 650px) {
+@media (max-width: 600px) {
     nav {
         display: none;   /* simple version — no hamburger menu */
     }
